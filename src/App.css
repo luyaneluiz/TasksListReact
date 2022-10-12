@@ -1,6 +1,6 @@
 .container {
   max-width: 500px;
-  margin: auto;
+  margin: 40px auto;
   overflow: auto;
   min-height: 300px;
   border: 2px solid crimson;
